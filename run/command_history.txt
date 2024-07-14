@@ -1,0 +1,2 @@
+/locate structure more_village:plains_town
+/tp @s 32 ~ 1120
